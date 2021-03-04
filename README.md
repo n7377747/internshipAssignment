@@ -7,9 +7,10 @@
 - type 'move' SPACE 'row' COMMA 'column' to make a move
 - eg move 0,0
 ### game grid
+<pre>
    0   1   2
 0| X |   |   |
 1|   |   |   |
 2|   |   |   |
-
+</pre>
 after making move from the example
